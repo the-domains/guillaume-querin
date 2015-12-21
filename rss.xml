@@ -4,7 +4,7 @@
         <description><![CDATA[Guillaume Querin]]></description>
         <link>https://thegrid.ai/guillaume-querin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 10:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 10:53:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guillaume-querin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Homepage]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/guillaume-querin/homepage/index.html</link>
             <guid isPermaLink="false">a99fa0f2-ef91-47b0-9489-a66519d6c3d2</guid>
             <pubDate>Mon, 21 Dec 2015 10:22:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gallerie]]></title>
+            <description><![CDATA[<h1>Gallerie</h1>]]></description>
+            <link>https://thegrid.ai/guillaume-querin/gallerie/index.html</link>
+            <guid isPermaLink="false">9f319b68-87ea-4910-b2e6-782771e58198</guid>
+            <pubDate>Mon, 21 Dec 2015 10:53:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Formation]]></title>
