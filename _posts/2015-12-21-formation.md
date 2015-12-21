@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T12:45:53.813Z'
-dateModified: '2015-12-21T12:45:47.832Z'
+datePublished: '2015-12-21T21:21:26.308Z'
+dateModified: '2015-12-21T21:21:21.952Z'
 title: Formation
 author: []
 sourcePath: _posts/2015-12-21-formation.md
@@ -26,8 +26,9 @@ _type: WebPage
 
 Université de Technologie de Troyes (UTT) 
 
-_De formation généraliste dans les Systèmes Industriels, je me suis spécialisé dans la Sûreté de Fonctionnement_
+* Formation généraliste des Systèmes Industriels
+* Spécialisation Sûreté de Fonctionnement
 
 Norwegian University of Science and Technology (NTNU)
 
-J'ai effectué mon semestre d'échange au sein du NTNU
+* Master RAMS
