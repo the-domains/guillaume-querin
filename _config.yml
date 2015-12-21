@@ -1,6 +1,6 @@
 name: Guillaume Querin
 favicon: null
-layout_spectrum: 0.8900149918626994
+layout_spectrum: 0.6648
 typography_spectrum: 0
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#004E98'
   brandStrength: 0.1875
   lightness: 0.1240977430716157
-  saturation: 0.5619202589150518
+  saturation: 0.6875
   rhythmicContrast: 0.0017939356621354818
 purpose: []
