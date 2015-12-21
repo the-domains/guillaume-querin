@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T21:22:36.534Z'
-dateModified: '2015-12-21T21:22:27.909Z'
+datePublished: '2015-12-21T21:27:25.987Z'
+dateModified: '2015-12-21T21:25:54.115Z'
 title: Formation
 author: []
 sourcePath: _posts/2015-12-21-formation.md
