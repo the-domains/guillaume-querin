@@ -4,7 +4,7 @@
         <description><![CDATA[Guillaume Querin]]></description>
         <link>https://thegrid.ai/guillaume-querin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 12:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 12:42:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guillaume-querin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Galerie photos]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/guillaume-querin/homepage/index.html</link>
             <guid isPermaLink="false">a99fa0f2-ef91-47b0-9489-a66519d6c3d2</guid>
             <pubDate>Mon, 21 Dec 2015 12:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expériences]]></title>
-            <description><![CDATA[<article><h1>Expériences</h1><p>SONOVISION, groupe ORTEC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e3e44f7482a63cbeb342e63d340200e4c8ed226.png"></article>]]></description>
-            <link>https://thegrid.ai/guillaume-querin/experiences/index.html</link>
-            <guid isPermaLink="false">c8306aa3-bef9-49ca-88f1-9e6b0f61fa85</guid>
-            <pubDate>Mon, 21 Dec 2015 12:40:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
