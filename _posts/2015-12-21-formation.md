@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T21:21:26.308Z'
-dateModified: '2015-12-21T21:21:21.952Z'
+datePublished: '2015-12-21T21:22:36.534Z'
+dateModified: '2015-12-21T21:22:27.909Z'
 title: Formation
 author: []
 sourcePath: _posts/2015-12-21-formation.md
@@ -26,7 +26,7 @@ _type: WebPage
 
 Université de Technologie de Troyes (UTT) 
 
-* Formation généraliste des Systèmes Industriels
+* Formation généraliste Systèmes Industriels
 * Spécialisation Sûreté de Fonctionnement
 
 Norwegian University of Science and Technology (NTNU)
