@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T10:01:47.742Z'
-dateModified: '2015-12-21T10:01:30.660Z'
+datePublished: '2015-12-21T10:07:56.263Z'
+dateModified: '2015-12-21T10:06:17.495Z'
 title: Formation
 author: []
+sourcePath: _posts/2015-12-21-formation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-formation.md
-published: true
 url: formation/index.html
 _type: Blurb
 
