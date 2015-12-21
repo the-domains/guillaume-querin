@@ -1,7 +1,7 @@
 name: Guillaume Querin
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.73602
+typography_spectrum: 0.59594
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#335384'
-    - '#010101'
-    - '#92b2e1'
-    - '#607382'
-  brandStrength: 0.0625
-  lightness: 0.1240977430716157
-  saturation: 0.6875
-  rhythmicContrast: 0.0017939356621354818
+    - '#003980'
+    - '#2163ad'
+    - '#3179c3'
+    - '#4896e1'
+    - '#5caffd'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
