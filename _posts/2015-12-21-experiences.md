@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T12:36:49.047Z'
-dateModified: '2015-12-21T12:36:39.969Z'
+datePublished: '2015-12-21T12:40:50.384Z'
+dateModified: '2015-12-21T12:40:45.410Z'
 title: Expériences
 author: []
+sourcePath: _posts/2015-12-21-experiences.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-experiences.md
-published: true
 url: experiences/index.html
 _type: Article
 
@@ -25,6 +25,7 @@ _type: Article
 # Expériences
 
 **SONOVISION, groupe ORTEC**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab729b98-7af6-4d15-90fb-21ffe6b8f2cd.png)
 
 Stagiaire études de Sûreté de Fonctionnement sur systèmes véhicules
 
