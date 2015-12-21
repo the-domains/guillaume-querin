@@ -4,8 +4,15 @@
         <description><![CDATA[Guillaume Querin]]></description>
         <link>https://thegrid.ai/guillaume-querin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 12:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 12:38:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guillaume-querin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Galerie photos]]></title>
+            <description><![CDATA[<h1>Galerie photos</h1>]]></description>
+            <link>https://thegrid.ai/guillaume-querin/gallerie/index.html</link>
+            <guid isPermaLink="false">9f319b68-87ea-4910-b2e6-782771e58198</guid>
+            <pubDate>Mon, 21 Dec 2015 12:38:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Formation]]></title>
             <description><![CDATA[<article><h1>Formation</h1><p>Université de Technologie de Troyes (UTT) </p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/guillaume-querin/experiences/index.html</link>
             <guid isPermaLink="false">c8306aa3-bef9-49ca-88f1-9e6b0f61fa85</guid>
             <pubDate>Mon, 21 Dec 2015 12:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gallerie]]></title>
-            <description><![CDATA[<h1>Gallerie</h1>]]></description>
-            <link>https://thegrid.ai/guillaume-querin/gallerie/index.html</link>
-            <guid isPermaLink="false">9f319b68-87ea-4910-b2e6-782771e58198</guid>
-            <pubDate>Mon, 21 Dec 2015 10:53:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
