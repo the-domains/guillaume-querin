@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T12:37:28.618Z'
-dateModified: '2015-12-21T12:34:20.209Z'
+datePublished: '2015-12-21T12:45:53.813Z'
+dateModified: '2015-12-21T12:45:47.832Z'
 title: Formation
 author: []
 sourcePath: _posts/2015-12-21-formation.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: formation/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Formation
