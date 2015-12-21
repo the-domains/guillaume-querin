@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T12:40:50.384Z'
-dateModified: '2015-12-21T12:40:45.410Z'
+datePublished: '2015-12-21T12:42:20.274Z'
+dateModified: '2015-12-21T12:42:16.192Z'
 title: Expériences
 author: []
 sourcePath: _posts/2015-12-21-experiences.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: experiences/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Expériences
