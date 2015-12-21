@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Guillaume Querin]]></title>
         <description><![CDATA[Guillaume Querin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/guillaume-querin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 10:19:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 10:22:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/guillaume-querin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Homepage]]></title>
+            <description><![CDATA[<article><h1>Homepage</h1><p>Hi !</p></article>]]></description>
+            <link>https://thegrid.ai/guillaume-querin/homepage/index.html</link>
+            <guid isPermaLink="false">a99fa0f2-ef91-47b0-9489-a66519d6c3d2</guid>
+            <pubDate>Mon, 21 Dec 2015 10:22:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Formation]]></title>
             <description><![CDATA[<article><h1>Formation</h1><p>Université de Technologie de Troyes (UTT)</p></article>]]></description>
-            <link>undefinedformation/index.html</link>
+            <link>https://thegrid.ai/guillaume-querin/formation/index.html</link>
             <guid isPermaLink="false">1fe72ef4-6046-41c6-aa9b-e25e7fbd096f</guid>
             <pubDate>Mon, 21 Dec 2015 10:19:20 GMT</pubDate>
         </item>
